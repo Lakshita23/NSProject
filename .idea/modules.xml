@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NSProject.iml" filepath="$PROJECT_DIR$/NSProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/SFT.iml" filepath="$PROJECT_DIR$/lib/SFT.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
